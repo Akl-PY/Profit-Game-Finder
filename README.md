@@ -1,4 +1,5 @@
 # Profit-Game-Finder
+Deben instalar el Microsoft .NET 4.8.1
 Aplicacion que busca profits automaticamente.
 Descargar el archivo desde mediafire e iniciar, puede saltar el antivirus.(esto sucede porque no cuento con una firma digital)
 Cuando se abran 3 cmds no cerrarlo, el programa esta hecho con python y utiliza selenium para hacer las conexiones con steam.
@@ -9,4 +10,4 @@ El boton revisar te dice el precio del juego y el valor de sus cromos
 El boton acceder, te lleva automaticamente a la pagina del juego.
 Cada 3 juegos que se encuentren se abrira un mensaje, deben darle a aceptar y abrira una publicidad que permite que el proyecto se mantenga, la publicidad la cierran y listo.
 El limite por sesion es de 10, cuando llegue el aviso reinicien el programa.
-Cualquier duda hablarme al discord: Akl#4229
+Cualquier duda hablarme al discord: Akl#2022
